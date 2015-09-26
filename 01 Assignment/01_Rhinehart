@@ -1,0 +1,80 @@
+<html>
+
+<head>
+</head>
+
+<body>
+
+	<h1 id="top">Sheera's Diet & Allergy Friendly Breakfast</h1>
+	<hr />
+	
+	<li><a href="home.html">Sheera's Recipes</a></li>
+	<li><a href="allergies.html">The Allergy List</a></li>
+	<li><a href="restaurants.html">Restaurant & Allergy Etiquette</a></li>
+	
+	
+	<h3>Ingredients</h3>
+
+	<ul>
+		<li>30g Gluten-Free Oatmeal (I like <a href="http://www.bobsredmill.com/">Bob's Red Mill</a>)</li>
+		<li>120mL Non-Dairy Milk (<a href="http://sodeliciousdairyfree.com/products">So Delicious Unsweetened Coconut Milk</a> is best)</li>
+		<li>14g Walnuts</li>
+		<li>1/2 medium Banana</li>
+		<li>40g Blueberries</li>
+		<li>1g Cinnamon</li>
+		<li>2g Brown Sugar</li>
+	</ul>
+
+	<h3>Preparation</h3>
+
+	<ol>
+		<li>
+			<b>Gather Supplies. </b>
+			<br />You will need a bowl, spoon, cutting board, knife, and kitchen scale
+		</li>
+		<li>
+			<b>Measure Portions. </b>
+			<br />Use the scale to measure out each ingredient (except the banana) in grams to ensure accurate caloric values.
+			<br /><a href="http://nutritiondata.self.com/">SELF Nutrition Data</a> is a great resource for determining your own portion sizes.
+			</li>
+		<li>
+			<b>Chop the Walnuts.</b> 
+			<br />Or not, if you prefer bigger pieces.
+		</li>
+		<li>
+			<b>Mix Dry Ingredients.</b>
+			<br />Combine the Oatmeal, Walnuts, Cinnamon, and Brown Sugar into bowl. 
+			<br />This step is important because cinnamon hates you, and will float on top of the milk otherwise.
+		</li>
+		<li>
+			<b>Prep the Banana.</b>
+			<br />Remove half the peel from the half of a banana. 
+			<br />Using the remaining peel to keep your hand from being covered in banana, cut the banana in half, and then into slices.
+		</li>
+		<li>
+			<b>Add the Fruit. </b>
+			<br />Add the blueberries and chopped banana to the bowl of dry ingredients 
+			<br />Mix well. (Because cinnamon still hates you.)
+		</li>
+		<li>
+			<b>Add the milk. </b>
+			<br />Mix well, and let stand for 5-10 minutes to allow absorbtion. 
+			<br />For hot oatmeal, place in the microwave for 2-5 minutes instead.
+		</li>
+
+	</ol>
+
+	<p>
+		<li><a href="http://www.sheerarhinehart.com">Other Content By Sheera</a></li>
+<li><a href="mailto:plaidtidings@gmail.com">Email Me!</a></li>
+	</p>
+	<p>
+		<a href="#top">Back to Top</a>
+	</p>
+
+
+
+
+</body>
+
+</html>
