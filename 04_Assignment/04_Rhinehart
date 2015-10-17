@@ -2,42 +2,50 @@
 
 {}
 
-h3{
-    font-size: 14px;
-    text-transform: uppercase;
-    background-color: pink;
-    color: darkmagenta;
-    font-weight: bold;
-}
-
-ul{
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-ol{
-    background-color: palegreen;
-    color: darkmagenta;
-    font-family: monospace;
-}
 body{
-    background-color: bisque;
-    color: darkmagenta;
-    font-family: cursive;
+    background-image: url("images/impalahunter.jpg");
 }
 h1{
-    font-family: "Courier New", monospace;
-    font-size: 25px;
-    text-transform: capitalize;
-    background-color: aquamarine;
-    color: darkviolet;
+    font-family: fantasy;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: greenyellow;
     font-weight: bold;
 }
-table{
-    background-color: palevioletred;
+h3{
+    font-family: fantasy;
+    font-size: 28px;
+    text-transform: capitalize;
+    color: aqua;
+    font-weight: bold;
+   }
+h2{
+    font-family: fantasy;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: goldenrod;
+    font-weight: 100;
+}
+ul{
+    font-family: "Lucida Console", monospace;
+}
+ol{
+    color: tomato;
+    font-family: monospace;
+}
+p{
+    color: darkmagenta;
+    font-family: monospace;
+    background-color: aquamarine
+}
+    table{
+    background-color: transparent;
     color: darkblue;
     font-family: fantasy;
 }
-p{
-    background-color: azure;
-}
+href{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: aliceblue;
+    }
 
-    </style>
+</style>
