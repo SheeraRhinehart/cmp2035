@@ -1,0 +1,43 @@
+<style type="text/css">
+
+{}
+
+h3{
+    font-size: 14px;
+    text-transform: uppercase;
+    background-color: pink;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+ul{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+ol{
+    background-color: palegreen;
+    color: darkmagenta;
+    font-family: monospace;
+}
+body{
+    background-color: bisque;
+    color: darkmagenta;
+    font-family: cursive;
+}
+h1{
+    font-family: "Courier New", monospace;
+    font-size: 25px;
+    text-transform: capitalize;
+    background-color: aquamarine;
+    color: darkviolet;
+    font-weight: bold;
+}
+table{
+    background-color: palevioletred;
+    color: darkblue;
+    font-family: fantasy;
+}
+p{
+    background-color: azure;
+}
+
+    </style>
