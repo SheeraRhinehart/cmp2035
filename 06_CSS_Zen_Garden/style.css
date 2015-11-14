@@ -1,0 +1,59 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/* basic elements */
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn);
+body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    color:#000066;
+    background-image: url(peacock_bg.jpg);
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color:#003399;
+    text-align: right;
+}
+h2{
+    font-family: 'Vollkorn', serif;
+    color:#006633;
+    text-align: right;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color:#006633;
+}
+a{
+    font-family: 'Vollkorn', serif;
+    font-size: 13px;
+    color:#3333d6;   
+}
+#zen-summary{
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+    color:#003399;
+    text-align: center;
+}
+#design-selection, #design-archives, #zen-resources{
+    font-family: 'Vollkorn', serif;
+    color:#006633;
+    text-align: right;
+}
+.designer-name{
+    font-style: oblique;
+}
+ h1, h2, li, .summary, .preamble, .select, .archives, .resources, #zen-supporting{
+    background-color: rgba(241,246,175,0.3);
+     
+}
